@@ -1,0 +1,9 @@
+streamlit
+torch
+torchaudio
+librosa
+numpy
+tensorflow
+scikit-learn
+speechbrain
+gdown
