@@ -87,3 +87,8 @@ pipeline.ipynb: End-to-End code for prediction.
 streamlit_app.py: Streamlit application for real time infrencce.
 
 
+## Team Members:
+
+Ankit Kumar Chauhan (M23CSA509) 
+
+Himani (M23CSA516) 
