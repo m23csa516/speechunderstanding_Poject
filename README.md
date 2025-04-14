@@ -86,6 +86,13 @@ pipeline.ipynb: End-to-End code for prediction.
 
 streamlit_app.py: Streamlit application for real time infrencce.
 
+### **5. Trained Models**
+
+Gender Prediction: https://drive.google.com/file/d/1TBwLj-v41E2PfojT0tL95LJG_2WqhkHK/view?usp=sharing
+
+Emoption Clasification: https://drive.google.com/file/d/1hDutyi6-5gXv8LPfiJSDi3p8-HRJhVQt/view?usp=sharing
+
+---
 
 ## Team Members:
 
